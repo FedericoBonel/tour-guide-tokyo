@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Descriptions (MAX CHARACTERS = 300) -->
+    <!-- Historical Sites -->
+    <string name="meiji_jingu_description">Meiji Shrine, located in Shibuya,
+        Tokyo, is the Shinto shrine that is dedicated to the deified spirits of Emperor Meiji and his wife, Empress Shōken.
+        The shrine does not contain the emperor\'s grave, which is located at Fushimi-momoyama, south of Kyoto.
+        If you are lucky enough you may encounter a traditional wedding happening in the shrine.</string>
+    <string name="nezu_shrine_description">Nezu Shrine is a Shinto shrine located in Tokyo, Japan. Established in 1705,
+        it is one of the oldest places of worship in the city,
+        and several of the buildings on the shrine grounds have been designated as Important Cultural Property.</string>
+    <string name="asakusa_description">Asakusa is famous for the Sensō-ji, a Buddhist temple
+        dedicated to the bodhisattva Kannon, and the Nakamise street.
+        There are several other temples in Asakusa, as well as various festivals, such as the Sanja Matsuri
+        and the fireworks in summer. Also there are several traditional restaurants surrounding the temple</string>
+    <string name="camii_description">Tokyo Mosque, Tōkyō-jāmii also known as Tokyo Camii,
+        is a mosque with an adjoining Turkish culture center located.
+        Close from Yoyogi-uehara station. It is known as one of the most beautiful mosques in all
+        of Asia, being the largest mosque in Japan. </string>
+    <string name="akasaka_description">Akasaka Palace, or the State Guest House, is one
+        of the two state guest houses of the Government of Japan.
+        The other state guesthouse is the Kyoto State Guest House. The palace was originally
+        built as the Imperial Palace for the Crown Prince in 1909.</string>
+    <string name="tokyo_skytree_description">Tokyo Skytree is a broadcasting and observation
+        tower. It became the tallest structure in Japan reaching
+        its full height of 634 meters in 2011,
+        making it the tallest tower in the world, and the second after the construction of Burj Khalifa.</string>
+    <string name="tokyo_tower_description">Built in 1958 reaching 332.9 meters, it is the second-tallest structure in Japan.
+        The structure is an Eiffel Tower-inspired lattice tower that
+        is painted white and international orange to comply with air safety regulations.</string>
+    <string name="ginza_description">One of the city’s top shopping districts, Ginza is packed with upmarket boutiques and ritzy cocktail and sushi bars.
+        Fine jewelry is sold in the 1930s Wako Honkan department store.
+        Traditional dance and drama is staged at the Kabuki theater. This is the place to buy all your souvenirs.</string>
+    <string name="tokyo_station_description">The main station on the western side
+        of the station is brick-built, surviving from the time when the station opened in 1914.
+        The building was designed by architect Tatsuno Kingo, as a restrained celebration of victory in the Russo-Japanese War.</string>
+
+    <!-- Museums -->
+    <string name="edo_tokyo_description">The museum opened in March 1993 to preserve Edo\'s cultural heritage,
+        and features city models of Edo and Tokyo between 1590 and 1964.
+        It was the first museum built dedicated to the history of Tokyo. One of the best historical Museums in Japan.
+        It includes a partial replica of the original wooden nihonbashi (which was destroyed during the bombings of 1945.)</string>
+    <string name="samurai_museum_description">It\'s a strong tourist activity featuring costumes that can be worn by visitors, regular sword battles and more.
+        That being said, it offers a small peek into what being a samurai was, their story, and their believes.</string>
+    <string name="nature_science_description">Opened in 1871, offers a wide variety of natural history exhibitions and interactive scientific experiences.
+    Highly recommendable if you are traveling with children or if you are a science geek.</string>
+    <string name="tokyo_national_description">It is one of the four museums operated by
+        the National Institutes for Cultural Heritage, is considered the oldest national museum in Japan,
+        is the largest art museum in Japan, and is one of the largest art museums in the world. For
+        this reason we highly advise you to go there early in the morning.</string>
+    <string name="ghibli_description">Animation and art museum of Studio Ghibli, one of Japan\'s most famous animation studios.
+        They have produced many feature length films with worldwide distribution such as My Neighbor Totoro,
+        Princess Mononoke, Spirited Away and many others. You must reserve the entrance
+        a month before your planned visit.</string>
+    <string name="western_art_description">The National Museum of Western Art is the premier public art gallery in Japan
+        specializing in art from the Western tradition.
+        Exhibits works from the Renaissance to the early 20th century, many having been acquired since the museum\'s opening.</string>
+    <string name="teamLab_description">teamLab Planets is a museum where you walk through water.
+        It consists of four vast exhibition spaces containing seven indoor “Body Immersive” artworks,
+        plus one outdoor piece at the entrance for a total of eight works created by teamLab.</string>
+
+    <!-- Parks -->
+    <string name="yoyogi_description">One of Tokyo\'s largest city parks, featuring wide lawns, ponds and forested areas.
+        It is a great place for jogging, picnicking and other outdoor activities.
+        Known for its ginko tree forest, which turns intensely golden in autumn.</string>
+    <string name="shiba_park_description">Shiba Park is Japan\'s oldest public park, being the first to be officially designated as a park in 1873,
+        only five years after the beginning of Japan\'s modernization. Parts of the present day park were once the Edo-period Okubo clan garden.</string>
+    <string name="ueno_park_description">The park grounds were originally part of Kaneiji Temple, which used to be one of the city\'s
+        largest and wealthiest temples and a family temple of the ruling Tokugawa clan during the Edo Period.</string>
+    <string name="nature_study_description">The Institute for Nature Study is a nature reserve in the heart of Tokyo.
+        The sights and sounds of the city are left behind when you enter the park.
+        Wild, natural and quiet even though the grounds are located near the Yamanote Line.</string>
+    <string name="shinjuku_gyoen_description">One of Tokyo\'s largest and most popular parks. Located just a short walk from Shinjuku Station, the paid park\'s
+        spacious lawns, meandering walking paths and tranquil scenery provide a relaxing escape from the busy urban center around it. </string>
+    <string name="imperial_garden_description">Part of the inner palace area and open to the public. Former site of Edo Castle\'s innermost circles of defense,
+        the honmaru and ninomaru.
+        None of the main buildings remain today, but the moats, walls, entrance gates and several guardhouses still exist.</string>
+    <string name="rikyu_garden_description">Features seawater ponds which change level with the tides,
+        and a teahouse on an island where visitors can rest and enjoy the scenery.
+        The traditionally styled garden stands in stark contrast to the skyscrapers of the adjacent Shiodome district.</string>
+    <string name="mount_takao_description">Takaosan has been a center of mountain worship for more than 1000 years. Yakuoin, an attractive temple,
+        stands along the trail near the mountain\'s summit, and many visitors stop there to pray to Shinto-Buddhist mountain gods (tengu) for good fortune.</string>
+    <string name="nokogiri_mountain_description">Spread out along the slopes of the mountain is Nihonji Temple, a Buddhist temple, which was commissioned about 1300 years ago,
+        making it one of the oldest places of worship in the Kanto Region. Up the mountain are 1500 statues of Buddhist disciples.</string>
+
+    <!-- Restaurants -->
+    <string name="ise_sueyoshi_description">Genre: Sashimi. \nIdeal for enjoying the four seasons of Japan on a plate.
+        Displays a rich experience with and deep understanding of the ingredients,
+        conveying not only the passing seasons but also the scenery and traditional flavors of Japan.</string>
+    <string name="miyazono_description">Genre: Sushi. \nThere are only nine seats in this elegant restaurant, so book in advance or turn up late – but not too late,
+        because Miyazono doesn’t serve food to customers who arrive after 1am. He’s got to sleep some time.</string>
+    <string name="kaneko_description">Genre: Tempura. \nHow long would you wait for a good bowl of
+        topped rice? An hour? More? We waited an hour and half on a Monday lunchtime in the queue that snaked outside this humble tendon specialist.
+        Ask for the large portion if you’re hungry. </string>
+    <string name="izumoya_description">Genre: Unagi. \nAn incongruous sight amongst the glass-and-steel high-rises of Nihonbashi,
+        the traditional two-storey building housing unagi specialist Izumoya seems to have somehow been shielded from the modern world.</string>
+    <string name="honmura_description">Genre: Soba. \nThe spacious, light interior and contemporary décor has helped draw a mix of locals and tourists
+        who are determined to sit down and appreciate their soba at an appropriately slow pace.</string>
+    <string name="kanda_description">Genre: Soba. \nMatsuya counts among Tokyo\'s most venerable noodle joints – it\'s been in business since 1884,
+        and the current, gorgeously preserved building dates back to 1924. </string>
+    <string name="oniyanma_description">Genre: Udon. \nOutside Gotanda station, this rough-and-ready joint serves up bowls
+        from as low as ¥300, and attracts queues every single day at lunchtime.
+        The tempura here is always freshly fried, so make sure to order some to go with your noodles.</string>
+    <string name="land_description">Genre: Curry. \nGenre: curry. Land is a small Meguro restaurant with a big ambition –
+        to reinvent the Japanese curry. Naito’s complex, aromatic sauce,
+        made with chicken stock, onion, garlic and a 15-spice mix, performs gymnastics on the tongue.</string>
+    <string name="mouyan_description">Genre: Curry. \nAt Mouyan you can enjoy curry prepared with the utmost care.
+        Onions, carrots, tomatoes, apples and bananas are broiled for two weeks in order to prepare the roux that\'s
+        added to the stock and cooked for two days to get on your dish.</string>
+    <string name="tonkyu_description">Genre: Tonkatsu. \nTakadanobaba
+        is home to several tonkatsu restaurants boasting citywide popularity. These regularly attract lengthy queues of
+        carnivores who don\'t mind waiting for what could be hours to bite into an extra-juicy piece of meat.</string>
+    <string name="karubiano_description">Genre: Yakiniku. \nAt Karubiano in Shinbashi it’s all about the careful selection of Japanese beef.
+        The thin strips are cooked over a charcoal grill at the ten-seat counter, browning in less than a minute.</string>
+
+</resources>

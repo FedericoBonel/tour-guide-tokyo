@@ -1,0 +1,80 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="colorAccent">@color/category_accent</item>
+    </style>
+
+    <!-- Item activity theme. -->
+    <style name="ItemTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="colorAccent">@color/category_accent</item>
+    </style>
+
+    <!-- Style for a tab that displays a category name -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#EF9A9A</item>
+        <item name="tabSelectedTextColor">@android:color/black</item>
+        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+        <item name="tabGravity">fill</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#E57373</item>
+    </style>
+
+    <!-- Text appearance style for the whole text container -->
+    <style name="TextContainerStyle">
+        <item name="android:padding">@dimen/margin8dp</item>
+    </style>
+
+    <!-- Text appearance style for the description -->
+    <style name="DescriptionTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <!-- Text appearance style for the attributes (Bussiness hours, Contact, etc) in the Item List-->
+    <style name="AttributesListTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Text appearance style for the attributes (Bussiness hours, Contact, etc) in the Item Activity -->
+    <style name="AttributesItemTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <!-- Text appearance style for the List attraction names in the item list-->
+    <style name="AttractionNameListTextAppearance" parent="android:TextAppearance.SearchResult.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- Text appearance style for the List attraction names in the item activity-->
+    <style name="AttractionNameItemTextAppearance" parent="android:TextAppearance.SearchResult.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">@dimen/margin16dp</item>
+        <item name="android:textSize">@dimen/titleAttractionTextSize</item>
+    </style>
+
+    <!-- Button appearance style for the activity buttons-->
+    <style name="ActivityButtons">
+        <item name="android:layout_width">@dimen/buttonSize</item>
+        <item name="android:layout_height">@dimen/buttonSize</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">?selectableItemBackgroundBorderless</item>
+    </style>
+
+    <!-- Text appearance style for the attributes phrases in the item activity-->
+    <style name="AttributesPhrases" parent="android:TextAppearance.Medium">
+        <item name="android:layout_marginLeft">@dimen/margin16dp</item>
+        <item name="android:layout_marginRight">@dimen/margin16dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

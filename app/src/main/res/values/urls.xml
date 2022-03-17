@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Urls -->
+
+    <!-- Historical Sites -->
+    <string name="meiji_url">https://www.meijijingu.or.jp/en/</string>
+    <string name="asakusa_url">https://www.senso-ji.jp/english/</string>
+    <string name="nezu_url">http://www.nedujinja.or.jp/</string>
+    <string name="camii_url">https://tokyocamii.org/</string>
+    <string name="akasaka_url">https://www.geihinkan.go.jp/en/akasaka/visit/</string>
+    <string name="skytree_url">http://www.tokyo-skytree.jp/en/</string>
+    <string name="tokyo_tower_url">https://www.tokyotower.co.jp/en.html</string>
+    <string name="ginza_url">https://www.google.com/search?q=ginza+tokyo</string>
+    <string name="tokyo_station_url">https://www.tokyoinfo.com/en/</string>
+
+    <!-- Museums -->
+    <string name="edo_museum_url">http://www.edo-tokyo-museum.or.jp/en/</string>
+    <string name="samurai_museum_url">https://www.samuraimuseum.jp/en/</string>
+    <string name="national_nature_museum_url">https://www.kahaku.go.jp/english/</string>
+    <string name="tokyo_national_museum_url">https://www.tnm.jp/?lang=en</string>
+    <string name="ghibli_museum_url">http://www.ghibli-museum.jp/en/</string>
+    <string name="western_art_museum_url">https://www.nmwa.go.jp/en/</string>
+    <string name="teamLab_museum_url">https://planets.teamlab.art/tokyo/</string>
+
+    <!-- Parks -->
+    <string name="yoyogi_park_url">http://www.tokyo-park.or.jp/park/format/index039.html</string>
+    <string name="shiba_park_url">https://www.tokyo-park.or.jp/park/format/index001.html</string>
+    <string name="ueno_park_url">https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/en_index.html</string>
+    <string name="nature_park_url">http://www.ins.kahaku.go.jp/english/index.php</string>
+    <string name="shinjuku_national_park_url">https://www.env.go.jp/garden/shinjukugyoen/english/index.html</string>
+    <string name="imperial_palace_url">https://www.kunaicho.go.jp/eindex.html</string>
+    <string name="rikyu_garden_url">https://www.tokyo-park.or.jp/park/format/index028.html</string>
+    <string name="mount_takao_url">https://www.kankyo.metro.tokyo.lg.jp/naturepark/english/index.html</string>
+    <string name="mount_nokogiri_url">http://www.mt-nokogiri.co.jp/pc/p130000.php</string>
+
+    <!-- Restaurants -->
+    <string name="ise_url">http://isesueyoshi.blog.fc2.com/blog-category-11.html</string>
+    <string name="miyazono_url">https://www.sushi-miyazono.com/</string>
+    <string name="kanneko_url">http://kaneko-hannosuke.com/english/</string>
+    <string name="izumoya_url">https://www.idumoya.com/</string>
+    <string name="honmura_url">http://www.honmuraantokyo.com/eng/</string>
+    <string name="kanda_matsuya_url">http://www.kanda-matsuya.jp/</string>
+    <string name="oniyanma_url">http://tokyofood.blog128.fc2.com/blog-entry-56.html</string>
+    <string name="land_url">http://land.hn/</string>
+    <string name="mouyan_url">https://www.moyan.jp/shops/dining/</string>
+    <string name="tonkyu_url">http://tonkyu.com/</string>
+    <string name="karubiano_url">https://gurunavi.com/en/g754719/rst/?sc_cid=gorp-foreign_en_bnr</string>
+
+
+</resources>

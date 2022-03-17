@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Contact -->
+
+    <!-- Museums -->
+    <string name="contact_tokyo_museum">080 6123 2312</string>
+    <string name="contact_samurai_museum">090 1232 3124</string>
+    <string name="contact_nature_science">090 1233 1111</string>
+    <string name="contact_national_museum">080 3563 6264</string>
+    <string name="contact_ghibli_museum">090 2315 8765</string>
+    <string name="contact_western_art_museum">080 1231 6623</string>
+    <string name="contact_planets_teamLab">080 5732 2346</string>
+
+    <!-- Restaurants -->
+    <string name="sueyoshi_phone">03-6427-2314</string>
+    <string name="tonkyu_phone">03-3209-3900</string>
+    <string name="miyazono_phone">03-6427-4838</string>
+    <string name="kanneko_phone">03-3243-0707</string>
+    <string name="izumoya_phone">03-3241-2476</string>
+    <string name="honmura_phone">03-5772-6657</string>
+    <string name="matsuya_phone">03-3251-1556</string>
+    <string name="land_curry_phone">080-3732-9295</string>
+    <string name="mouyan_phone">03-6805-1994</string>
+    <string name="karubiano_phone">050-3490-5187</string>
+
+</resources>

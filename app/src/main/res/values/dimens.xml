@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="listItemHeight">124dp</dimen>
+    <dimen name="listItemWidth">124dp</dimen>
+    <dimen name="imageAttractionSize">300dp</dimen>
+    <dimen name="titleAttractionTextSize">35sp</dimen>
+    <dimen name="buttonSize">60dp</dimen>
+    <dimen name="margin16dp">16dp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+    <dimen name="margin4dp">4dp</dimen>
+    <dimen name="categoryImageSize">25dp</dimen>
+    <dimen name="frameSize">1dp</dimen>
+</resources>
