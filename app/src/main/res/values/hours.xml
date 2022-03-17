@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Business Hours -->
+
+    <!-- Regular hours for open spaces -->
+    <string name="always_open_hours"> Open 24 hours</string>
+
+    <!-- Sites -->
+    <string name="camii_hours"> 10:00 – 18:00</string>
+    <string name="tokyo_station_hours"> 05:00 – 23:00</string>
+    <string name="meiji_jingu_hours"> 05:00 – 18:00</string>
+    <string name="nezu_hours"> 06:00 – 16:30</string>
+    <string name="akasaka_hours"> 10:00 – 17:00 (final admission 16:00)</string>
+    <string name="skytree_hours"> 09:00 – 21:00</string>
+    <string name="tokyo_tower_hours"> 09:00 – 23:00</string>
+
+    <!-- Parks -->
+    <string name="ueno_park_hours"> 05:00 – 23:00</string>
+    <string name="institute_nature_study_hours"> 09:00 – 16:30</string>
+    <string name="shinjuku_gyoen_hours"> Monday to Friday: 09:00 – 18:30\nWeekends: 07:00 – 18:30</string>
+    <string name="imperial_palace_hours"> 09:00 – 17:00</string>
+    <string name="hama_rikyu_hours"> 09:00 – 17:00</string>
+    <string name="mount_takao_hours"> 08:00 – 23:00</string>
+    <string name="mount_nokogiri_hours"> 08:00 – 17:00</string>
+
+    <!-- Museums -->
+    <string name="edo_museum_hours"> 09:30 – 17:30</string>
+    <string name="samurai_museum_hours"> 10:30 – 21:00</string>
+    <string name="nature_science_museum_hours"> 09:00 – 18:00 (Mondays closed)</string>
+    <string name="national_museum_hours"> 10:30 – 16:00</string>
+    <string name="ghibli_museum_hours"> 10:00 – 18:00</string>
+    <string name="western_museum_hours"> 09:30 – 17:30</string>
+    <string name="teamLab_hours"> 09:00 – 22:00</string>
+
+    <!--Restaurants -->
+    <string name="sueyoshi_hours"> 17:30 – 21:30 (Sundays closed)</string>
+    <string name="miyazono_hours"> 17:00 – 00:00</string>
+    <string name="kanneko_hours"> 11:00 – 22:00</string>
+    <string name="izumoya_hours"> 11:00 – 14:00, 17:00 – 21:00 (Sundays closed)</string>
+    <string name="honmura_hours"> 12:00 – 14:30, 17:30 – 22:00 (Mondays closed)</string>
+    <string name="kanda_matsuya_hours"> 11:00 – 20:00 (Sundays closed)</string>
+    <string name="oniyanma_hours"> 07:00 – 23:00</string>
+    <string name="land_hours"> 12:00 – 15:30 (Monday to Wednesday closed)</string>
+    <string name="mouyan_hours"> 11:30 – 14:30, 18:00 – 22:30PM (Sundays closed)</string>
+    <string name="karubiano_hours"> 17:00 – 23:30</string>
+    <string name="tonkyu_hours"> 11:00 - 21:40</string>
+
+</resources>

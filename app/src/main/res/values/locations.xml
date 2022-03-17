@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locations -->
+
+    <!-- google's map Url -->
+    <string name="google_maps_url">https://www.google.com/maps/place/</string>
+
+    <!-- Historical Sites -->
+    <string name="meiji_location">Meiji+Jingu/@35.6764019,139.6971372,17z/data=!3m1!4b1!4m5!3m4!1s0x60188cb79a4c26e5:0x8fca893849103f73!8m2!3d35.6763976!4d139.6993259</string>
+    <string name="nezu_shrine_location">Nezu+Shrine/@35.7200104,139.7607541,15z/data=!4m5!3m4!1s0x0:0xc0a807378062b0d!8m2!3d35.7200104!4d139.7607541</string>
+    <string name="asakusa_location">Sensō-ji/@35.7147651,139.7966553,15z/data=!4m5!3m4!1s0x0:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553</string>
+    <string name="mosque_location">Tokyo+Camii+%26+Turkish+Culture+Center/@35.668191,139.6743673,17z/data=!3m1!4b1!4m5!3m4!1s0x6018f34759be4315:0xc726759ce2573887!8m2!3d35.668191!4d139.676556</string>
+    <string name="akasaka_location">Akasaka+Palace/@35.680293,139.7264513,17z/data=!3m1!4b1!4m5!3m4!1s0x60188d4648faa32f:0xdd7c25491ff6ccb!8m2!3d35.6802887!4d139.72864</string>
+    <string name="tokyo_skytree_location">Tokyo+Skytree/@35.710067,139.8085117,17z/data=!3m1!4b1!4m5!3m4!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a!8m2!3d35.7100627!4d139.8107004</string>
+    <string name="tokyo_tower_location">Tokyo+Tower/@35.6585848,139.7432442,17z/data=!3m1!4b1!4m5!3m4!1s0x60188bbd9009ec09:0x481a93f0d2a409dd!8m2!3d35.6585805!4d139.7454329</string>
+    <string name="ginza_location">Ginza,+Chuo+City,+Tokyo+104-0061/@35.6696082,139.7611237,16z/data=!3m1!4b1!4m5!3m4!1s0x60188be701836fbb:0x604685b30ba99851!8m2!3d35.6712228!4d139.7664859</string>
+    <string name="tokyo_station_location">Tokyo+Station/@35.6812405,139.7649361,17z/data=!3m1!4b1!4m5!3m4!1s0x60188bfbd89f700b:0x277c49ba34ed38!8m2!3d35.6812362!4d139.7671248</string>
+
+    <!-- Museums -->
+    <string name="edo_tokyo_location">Edo-Tokyo+Museum/@35.6966015,139.7935449,17z/data=!3m1!4b1!4m5!3m4!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336</string>
+    <string name="samurai_museum_location">Samurai+Museum/@35.6954887,139.7013539,17z/data=!3m2!4b1!5s0x60188cd85464a4f1:0x73a1d6921f1a333a!4m5!3m4!1s0x60188cd8538fffff:0x7fa862a485d5a1e8!8m2!3d35.6954844!4d139.7035426</string>
+    <string name="national_nature_science_location">National+Museum+of+Nature+and+Science/@35.7163102,139.7743365,17z/data=!3m1!4b1!4m5!3m4!1s0x60188e9ceba15bf1:0x89884580e40b3eca!8m2!3d35.7163059!4d139.7765252</string>
+    <string name="national_location">Tokyo+National+Museum/@35.7188394,139.7743328,17z/data=!3m1!4b1!4m5!3m4!1s0x60188e8314d77d11:0x232fd618bd4977dd!8m2!3d35.7188351!4d139.7765215</string>
+    <string name="ghibli_location">Ghibli+Museum/@35.6962423,139.568243,17z/data=!3m1!4b1!4m5!3m4!1s0x6018ee34e5038c2d:0x4de155903f849205!8m2!3d35.696238!4d139.5704317</string>
+    <string name="western_art_location">National+Museum+of+Western+Art/@35.7153912,139.7736251,17z/data=!4m5!3m4!1s0x60188e9cfa41cc7f:0xbb23dcd494e13c8b!8m2!3d35.7153869!4d139.7758138</string>
+    <string name="teamLab_location">teamLab+Planets+TOKYO/@35.649125,139.7875852,17z/data=!3m1!4b1!4m5!3m4!1s0x60188908e728e749:0x6de450c94bd3d622!8m2!3d35.6491207!4d139.7897739</string>
+
+    <!-- Parks -->
+    <string name="yoyogi_location">Yoyogi+Park/@35.6715912,139.6945141,17z/data=!3m1!4b1!4m5!3m4!1s0x60188cb479620a33:0x34bcc78ce7f8bf3e!8m2!3d35.6715869!4d139.6967028</string>
+    <string name="shiba_location">Shibakoen,+Minato+City,+Tokyo+105-0011/@35.6576262,139.7437297,16z/data=!3m1!4b1!4m5!3m4!1s0x60188bbe9029c3ff:0x6b5cf959a2346d3f!8m2!3d35.6571637!4d139.7485979</string>
+    <string name="ueno_location">Ueno+Park/@35.7154812,139.7718664,17z/data=!3m1!4b1!4m5!3m4!1s0x60188e9b45906ac3:0xb1cb3623124e645a!8m2!3d35.7154769!4d139.7740551</string>
+    <string name="nature_studies_location">Institute+for+Nature+Study/@35.6379722,139.718528,17z/data=!4m12!1m6!3m5!1s0x60188b194976155b:0xf76822e972bb3c1!2z55uu6buS6aeF!8m2!3d35.6339132!4d139.7155561!3m4!1s0x60188b0ef75b4909:0xef6e28ddc9dfe6a9!8m2!3d35.6387904!4d139.7197068</string>
+    <string name="shinjuku_gyoen_location">Shinjuku+Gyoen+National+Garden/@35.6851806,139.707863,17z/data=!3m1!4b1!4m5!3m4!1s0x60188cc21b93233f:0x6a1eb1b5a117f287!8m2!3d35.6851763!4d139.7100517</string>
+    <string name="imperial_palace_location">The+East+Gardens+of+the+Imperial+Palace/@35.6868768,139.7549774,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c13425af13d:0xa31b000a35db03f9!8m2!3d35.6868725!4d139.7571661</string>
+    <string name="rikyu_gardens_location">Hamarikyu+Gardens/@35.6597417,139.7613038,17z/data=!3m1!4b1!4m5!3m4!1s0x60188bdcbaa0f7c1:0x9b4a9ebdf898381a!8m2!3d35.6597374!4d139.7634925</string>
+    <string name="mount_takao_location">Mount+Takao/@35.6254292,139.2349837,15z/data=!3m1!4b1!4m5!3m4!1s0x6019197f5ea3876f:0xc7070b841ef62fdf!8m2!3d35.6254126!4d139.2437385</string>
+    <string name="mount_nokogiri_location">Mount+Nokogiri/@35.1603144,139.8320115,15z/data=!3m1!4b1!4m5!3m4!1s0x60181b26e686b0ef:0xc258c596637b9320!8m2!3d35.1602977!4d139.8407663</string>
+
+    <!-- Restaurants -->
+    <string name="ise_sueyoshi_location">Ise+Sueyoshi/@35.6586713,139.7213043,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b706988a2d5:0x2f16932d54cc2493!8m2!3d35.658667!4d139.723493</string>
+    <string name="miyazono_location">Miyazono/@35.6608767,139.7203409,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b7ac5bab617:0xf45797d1b60f249a!8m2!3d35.6608724!4d139.7225296</string>
+    <string name="kanneko_location">Kaneko+Hannosuke/@35.6854166,139.7731762,17z/data=!3m1!4b1!4m5!3m4!1s0x60188955d3834ea3:0x1cd196b29b306fb0!8m2!3d35.6854123!4d139.7753649</string>
+    <string name="izumoya_location">日本橋いづもや本店+本館/@35.6877839,139.7687327,17z/data=!3m1!4b1!4m5!3m4!1s0x60188bff88a6ee41:0x23f36945d54631ea!8m2!3d35.6877796!4d139.7709214</string>
+    <string name="honmura_location">Honmura+An/@35.6634711,139.7288483,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b78112ab767:0x8caf35492e8c115f!8m2!3d35.6634668!4d139.731037</string>
+    <string name="kanda_location">Kanda+Matsuya/@35.6961191,139.7665996,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c034b047343:0xa95734bae35ddf5f!8m2!3d35.6961148!4d139.7687883</string>
+    <string name="oniyanma_location">Oniyamma/@35.625469,139.7217611,17z/data=!3m1!4b1!4m5!3m4!1s0x60188afafdbd1e1d:0xa051bd9d6bc72ef7!8m2!3d35.6254647!4d139.7239498</string>
+    <string name="land_location">LAND/@35.6330726,139.707265,17z/data=!3m2!4b1!5s0x60188b2251a74931:0xf65eeb32539dcf9c!4m5!3m4!1s0x60188b225176da71:0x211eaee12d599e32!8m2!3d35.6330683!4d139.7094537</string>
+    <string name="mouyan_location">Moyan+Curry/@35.6607412,139.704146,17z/data=!3m1!4b1!4m5!3m4!1s0x60188b58ca441c0b:0x70a4014716ce7539!8m2!3d35.6607369!4d139.7063347</string>
+    <string name="tonkyu_location">とん久/@35.712827,139.705138,17z/data=!4m5!3m4!1s0x0:0x7c4a172348c11abf!8m2!3d35.7128271!4d139.7051383?hl=ja</string>
+    <string name="karubiano_location">かるびあーの+新橋店/@35.6656058,139.7528222,17z/data=!3m1!4b1!4m5!3m4!1s0x60188bebaa631ea7:0x683ebb9c75c9f8ce!8m2!3d35.6656015!4d139.7550109</string>
+
+
+</resources>

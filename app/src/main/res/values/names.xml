@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Names -->
+    <!-- Historical sites -->
+    <string name="meiji_jingu">Meiji Jingu Shrine</string>
+    <string name="asakusa">Asakusa</string>
+    <string name="ginza">Ginza Shopping Street</string>
+    <string name="camii">Tokyo Camii</string>
+    <string name="akasaka">Akasaka Palace</string>
+    <string name="tokyo_station">Tokyo Central Station</string>
+    <string name="nezu_shrine">Nezu Shrine</string>
+    <string name="tokyo_skytree">Tokyo Skytree</string>
+    <string name="tokyo_tower">Tokyo Tower</string>
+
+    <!-- Museums -->
+    <string name="edo_tokyo_museum">Edo-Tokyo Museum</string>
+    <string name="samurai_museum">Samurai Museum</string>
+    <string name="nature_science">National Museum of Nature and Science</string>
+    <string name="national_museum">Tokyo National Museum</string>
+    <string name="ghibli_museum">Ghibli Museum</string>
+    <string name="western_art_museum">Museum of Western Art</string>
+    <string name="planets_teamLab">TeamLab Planets Museum</string>
+
+    <!-- Nature -->
+    <string name="yoyogi_park">Yoyogi Park</string>
+    <string name="shinjuku_national_park">Shinjuku Gyoen National Garden</string>
+    <string name="shiba_park">Shiba Park</string>
+    <string name="ueno_park">Ueno Park</string>
+    <string name="imperial_palace">Imperial Palace East Gardens</string>
+    <string name="rikyu_garden">Hama Rikyu Garden</string>
+    <string name="nature_study_park">Institute for Nature Study</string>
+    <string name="takao_mountain">Mount Takao</string>
+    <string name="nokogiri_mountain">Mount Nokogiri</string>
+
+    <!-- Restaurants -->
+    <string name="sueyoshi_restaurant">Ise Sueyoshi</string>
+    <string name="miyazono_restaurant">Miyazono</string>
+    <string name="kaneko_restaurant">Kaneko Hannosuke</string>
+    <string name="izumoya_restaurant">Izumoya</string>
+    <string name="honmura_soba_restaurant">Honmura An</string>
+    <string name="kanda_soba_restaurant">Kanda Matsuya</string>
+    <string name="oniyanma_udon_restaurant">Oniyanma</string>
+    <string name="land_curry_restaurant">Land</string>
+    <string name="mouyan_curry_restaurant">Mouyan Curry</string>
+    <string name="ton_kyu_tonkatsu_restaurant">Ton-kyu</string>
+    <string name="yakiniku_karubiano">Karubiano</string>
+</resources>

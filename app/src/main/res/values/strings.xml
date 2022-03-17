@@ -1,0 +1,26 @@
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">Tour Guide Tokyo</string>
+
+    <!-- Title for the historical sites category -->
+    <string name="sites">Sites</string>
+
+    <!-- Title for the museums category -->
+    <string name="museums">Museums</string>
+
+    <!-- Title for the parks category -->
+    <string name="parks">Nature</string>
+
+    <!-- Title for the museums category -->
+    <string name="restaurants">Restaurants</string>
+
+    <!-- Visit website -->
+    <string name="website">Visit Website</string>
+
+    <!-- Contact -->
+    <string name="contact">Call Business</string>
+
+    <!-- Location Map -->
+    <string name="LocationMap">Map Location</string>
+
+</resources>
